@@ -1,0 +1,934 @@
+Acetaminophen	
+Tylenol		Paracetamol
+Acyclovir	Aciclovir
+Albuterol	Salbutamol
+Allopurinol	Allopurinol
+Amitriptyline	Amitriptilina
+Amoxicillin	Amoxicilina
+Aspirin		Aspirina
+Atenolol	Atenolol
+Atorvastatin	Atorvastatina
+Azithromycin	Azitromicina
+
+Benazepril	Benazepril
+Benzonatate	Benzonatato
+Betamethasone	Betametasona
+Bisacodyl	Bisacodilo
+Bisoprolol	Bisoprolol
+Budesonide	Budesonida
+Bupropion	Bupropión
+
+Captopril	Captopril
+Carbamazepine	Carbamazepina
+Carvedilol	Carvedilol
+Cephalexin	Cefalexina
+Cetirizine	Cetirizina
+Ciprofloxacin	Ciprofloxacino
+Clindamycin	Clindamicina
+Clonazepam	Clonazepam
+Clopidogrel	Clopidogrel
+Codeine		Codeína
+Colchicine	Colchicina
+
+Dexamethasone	Dexametasona
+Diazepam	Diazepam
+Diclofenac	Diclofenaco
+Diltiazem	Diltiazem
+Diphenhydramine	Difenhidramina
+Doxycycline	Doxiciclina
+
+Enalapril	Enalapril
+Erythromycin	Eritromicina
+Esomeprazole	Esomeprazol
+Estradiol	Estradiol
+Etodolac	Etodolaco
+
+Famotidine	Famotidina
+Felodipine	Felodipina
+Fenofibrate	Fenofibrato
+Fexofenadine	Fexofenadina
+Fluconazole	Fluconazol
+Fluoxetine	Fluoxetina
+Fluticasone	Fluticasona
+Folic Acid	Ácido Fólico
+Furosemide	Furosemida
+
+Gabapentin	Gabapentina
+Gatifloxacin	Gatifloxacina
+Glyburide	Glibenclamida
+
+Hydrochlorothiazide	Hidroclorotiazida
+Hydrocodone	Hidrocodona
+Hydroxyzine	Hidroxicina
+
+Ibuprofen	Ibuprofeno
+Isoniazid	Isoniazida
+Isosorbide	Isosorbida
+
+Ketoconazole	Ketoconazol
+Ketoprofen	Ketoprofeno
+
+Labetalol	Labetalol
+Lansoprazole	Lansoprazol
+Latanoprost	Latanoprost
+Levofloxacin	Levofloxacina
+Levothyroxine	Levotiroxina
+Lorazepam	Lorazepam
+Losartan	Losartán
+Loratadine	Loratadina
+Lovastatin	Lovastatina
+
+Metformin	Metformina
+Methotrexate	Methotrexato
+Metoprolol	Metoprolol
+Metronidazole	Metronidazol
+Montelukast	Montelukast
+Morphine	Morfina
+Mupirocin	Mupirocina
+
+Naproxen	Naproxeno
+Nebivolol	Nebivolol
+Nifedipine	Nifedipina
+Nitroglycerin	Nitroglicerina
+
+Omeprazole	Omeprazol
+Ondansetron	Ondansetrón
+Oseltamivir	Oseltamivir
+Oxcarbazepine	Oxcarbazepina
+Oxycodone	Oxicodona
+
+Pantoprazole	Pantoprazol
+Paroxetine	Paroxetina
+Penicillin	Penicilina
+Phenytoin	Fenitoína
+Pioglitazone	Pioglitazona
+Polyethylene Glycol	Polietilenglicol
+Prednisone	Prednisona
+Pregabalin	Pregabalina
+Propranolol	Propranolol
+Pseudoephedrine	Pseudoefedrina
+
+Quetiapine	Quetiapina
+Quinapril	Quinapril
+
+Ranitidine	Ranitidina
+Risperidone	Risperidona
+Rivaroxaban	Rivaroxabán
+Rosuvastatin	Rosuvastatina
+
+Salicylic Acid	Ácido Salicílico
+Sertraline	Sertralina
+Simvastatin	Simvastatina
+Sodium Bicarbonate	Bicarbonato de Sodio
+Spironolactone	Espironolactona
+Sucralfate	Sucralfato
+Sulfasalazine	Sulfasalazina
+
+Tamsulosin	Tamsulosina
+Temazepam	Temazepam
+Terazosin	Terazosina
+Tetracycline	Tetraciclina
+Tiotropium	Tiotropio
+Tolterodine	Tolterodina
+Tramadol	Tramadol
+Trazodone	Trazodona
+Triamcinolone	Triamcinolona
+
+Valacyclovir	Valaciclovir
+Valsartan	Valsartán
+Vancomycin	Vancomicina
+Venlafaxine	Venlafaxina
+Verapamil	Verapamilo
+Vitamin B12	Vitamina B12
+Vitamin D3	Vitamina D3
+Vitamin K	Vitamina K
+
+Warfarin	Warfarina
+
+Xylocaine	Xilocaína
+
+Zidovudine	Zidovudina
+Zolpidem	Zolpidem
+
+
+Abortion					|	Aborto
+Acetabulum					|	Acetábulo
+Acid reflux					|	Reflujo ácido/Reflujo gástrico
+Acute pain					|	Dolor agudo
+Adrenal glands					|	Glándulas suprarrenales
+Airways						|	Vías respiratorias
+Alcohol use disorder				|	Trastorno por consumo de alcohol
+Allergens					|	Alérgenos
+Allowance					|	Subsidio/subvención/asignación/mesada
+Amalgam						|	Amalgama
+Amniocentesis					|	Amniocentesis
+Amniotic sack					|	Saco amniótico
+Amygdala					|	Amígdala cerebral/Cuerpo amigdalino/Complejo amigdalino
+Anaphylaxis					|	Anafilaxia
+Anesthesia					|	Anestesia
+Angina						|	Angina pectoris/Angina de pecho
+Angiotensin-converting enzyme inhibitor		|	Inhibidores de la enzima convertidora de angiotensina
+Annual check up					|	Revisión anual
+Antiacid/antacid				|	Antiácido
+Anti-anxiety medication				|	Ansiolítico/Medicamento para la ansiedad
+Anti-inflammatory medication			|	Medicamento antiinflamatorio
+Antibiotics					|	Antibióticos
+Antiepileptic treatment				|	Tratamiento antiepiléptico
+Antihistamine					|	Antihistamínico
+Anxious						|	Ansioso
+Baby blues/post-partum depression		|	Depresión post-parto
+Ball-and-socket joint				|	Diartrosis/enartrosis
+Bed ridden					|	Postrado en cama
+Bed sores					|	Escáras/úlceras por presión
+Belly						|	Vientre/abdomen/barriga
+Bile						|	Bilis
+Bile ducts					|	Conductos biliares
+Bilirrubin					|	Bilirrubina
+Binge drinking					|	Beber compulsivamente
+Bipolar disorder				|	Trastorno bipolar
+Birth control pill				|	Pastilla anticonceptiva/de control de natalidad
+Birth defects					|	Defectos congénitos/ defectos de nacimiento
+Bladder						|	Vejiga
+Blister						|	Ampolla
+Blood cells					|	Glóbulos sangüíneas
+Blood clot					|	Coágulo de sangre
+Blood sugar levels				|	Niveles de azúcar en la sangre
+Blood vessels					|	Vasos sangüíneos
+Blurred vision					|	Visión borrosa
+Bodily fluids					|	Fluídos corporales
+Bone marrow					|	Médula ósea
+Bony prominence					|	Prominencia ósea/prominencia del hueso
+Bottle						|	Biberón/ frasco
+Bowel movement					|	Defecación/deposición/evacuación/movimiento intestinal
+Brace						|	Férula/soporte/abrazadera
+Brand name medications				|	Medicamentos de marca
+Breast tenderness				|	Sensibilidad mamaria
+Breastmilk					|	Leche materna
+Bronchi						|	Bronquios (en plural)
+Bronchioles					|	Bronquiolos
+Bronchitis					|	Bronquitis
+Build-up					|	Acumulación
+C-section					|	Cesárea
+Calf						|	Pantorrilla
+Cane						|	Bastón
+Cardiac arrest					|	Paro cardíaco
+Carotene					|	Caroteno
+Cast						|	Yeso
+Casualties					|	Bajas/víctimas/heridos
+Cataract					|	Catarata
+Catheter					|	Catéter
+Cavities					|	Caries
+Cement						|	Cemento
+Cervical collar					|	Collarín/Collar cervical
+Cervix						|	Cuello uterino
+Charity care program				|	Programa atención de beneficencia del hospital o clínica
+Chart						|	Expediente/expediente clínico/expediente médico
+Chest tightness					|	Opresión en el pecho
+Chicken pox					|	Varicela
+Childbearing age				|	Edad fértil
+Chipped teeth					|	Dientes desportillados/agrietados/quebrados
+Cholesterol					|	Colesterol
+Chromosomal problems				|	Problemas cromosómicos/de los cromosomas
+Cirrhosis					|	Cirrosis
+Civilian					|	Civil
+Clearheaded					|	Lúcido
+Cleft lip					|	Labio leporino
+Cleft palate					|	Paladar hendido
+Co-payment					|	Co-pago
+Cochlear implant				|	Implante coclear
+Collarbone/clavicle				|	Clavícula
+Colostrum					|	Calostro
+Concussion					|	Conmoción cerebral/conmoción
+Condylar region					|	Región condila
+Congestive heart failure			|	Insuficiencia cardiaca congestiva
+Contraceptive method				|	Método anticonceptivo
+Contracture of tissue				|	Contractura del tejido
+Contrast					|	Contraste
+Crutches					|	Muletas
+Delivery					|	Parto/dar a luz
+Dentin/Dentine					|	Dentina
+Dentures					|	Dentaduras/prótesis dentales/dentadura postiza
+Deprive						|	Privar
+Diagnosis					|	Diagnóstico
+Diastolic pressure				|	Presión diastólica
+Digested blood					|	Sangre digerida
+Discharge/to discharge				|	Flujo o secreción/dar de alta
+Discomfort					|	Molestia/malestar/incomodidad
+Disorder					|	Trastorno
+Distal end					|	Extremo distal/borde distal
+Dizziness					|	Mareo
+Donor						|	Donante
+Dosage/dose					|	Dosis
+Down syndrome					|	Síndrome de down
+Drain						|	Drenar
+Drainage					|	Drenaje
+Dressing					|	Vendaje
+Dribble						|	Goteo/gotear
+Drowsy						|	Somnoliento/soporífero
+Dye						|	Tintura
+Ear drum					|	Tímpano
+Ectopic pregnancy				|	Embarazo ectópico
+Egg/Eggs					|	Óvulo/óvulos
+Eligibility					|	Eligibilidad/criterio (cumplir con)
+Enamel						|	Esmalte/Esmalte dental
+Endocrinologist					|	Endocrinólogo
+Endoscopy					|	Endoscopía
+Enlarged					|	Agrandado
+Enrollment					|	Inscripción
+Epi pen						|	Epinefrina/Inyección de epinefrina
+Espolón						|	Spur
+Fallopian tubes					|	Trompas de falopio
+Fast track to recovery				|	Vía rápida de recuperación
+Fatty liver					|	Hígado graso
+Feces						|	Heces
+Feeding tube					|	Sonda de alimentación
+Feeling bloated					|	Sensación de llenura
+Foetus						|	Feto
+Fill						|	Surtir/abastecer
+Filling						|	Empaste
+Finding/Findings				|	Hallazgo/Hallazgos
+Fingertip					|	Yema del dedo
+Flare up					|	Brote/Erupción (cutanea)
+Flu-like symptoms				|	Síntomas parecidos a los de la gripe
+Fluid retention					|	Retención de líquidos
+Fluid/Fluids					|	Líquido/Líquidos
+Follow up appointment				|	Cita de seguimiento
+Food						|	Alimento
+Food hygiene control				|	Control de higiene de los alimentos
+Full term					|	A término completo
+Gall stones					|	Cálculos biliares o vesículares
+Gall bladder					|	Vesícula biliar
+Generic medications				|	Medicamentos genéricos
+Genetic counselor				|	Asesor genético/consejero genético
+Gestational diabetes				|	Diabetes gestacional
+Glucose levels					|	Niveles de glucosa
+Glucose monitor/glucose meter/glucometer	|	Monitor de glucosa/glucómetro/medidor de la glucosa
+Gown						|	Bata
+Grapefruit					|	Toronja
+Gums						|	Encías
+Haemorrhage					|	Hemorragia
+Hair follicles					|	Folículos capilares/Folículos pilosos
+Hay fever/pollen allergy			|	Fiebre del heno/alergia al polen
+Healthcare professional				|	Profesional de cuidados de salud
+Healthcare provider				|	Proveedor de cuidados de salud
+Hearing aid					|	Prótesis auditiva/aparato de corrección auditiva
+Hearing test					|	Examen de audición
+Heart attack					|	Ataque al corazón/ataque cardiaco
+Heart disease					|	Enfermedad cardíaca
+Heart failure					|	Insuficiencia cardíaca
+Heartbeat					|	Latido cardiaco/latido del corazón
+Heartburn					|	Acidez/acidez estomacal
+Heat stroke					|	Golpe de calor
+Heavy period/Heavy flow				|	Periodo o flujo abundante
+Hemorrhoids					|	Hemorroides
+Hernia						|	Hernia
+High Blood Pressure				|	Presión arterial alta
+Hot flashes					|	Bochornos
+Hyperglycemia					|	Hiperglucemia
+Hypoglycemia					|	Hipoglucemia
+Incisor teeth					|	Incisivos/Dientes incisivos
+Incontinence					|	Incontinencia
+Injury						|	Lesión
+Inpatient					|	Intrahospitalario/hospitalizado/ingresado
+Insulin						|	Insulina
+Intestines/bowels				|	Intestinos
+Iron						|	Hierro
+Jaundice					|	Ictericia
+Jaw						|	Mandíbula
+Joint/Joints					|	Articulación/Articulaciones
+Kidney Failure					|	Insuficiencia Renal/Insuficiencia de los riñones
+Kidney Stones					|	Cálculo renal
+Kidneys						|	Riñones
+Lactation					|	Lactancia
+Lancet						|	Lanceta
+Large Intestine					|	Intestino Grueso
+Larynx						|	Laringe
+Latch on (action)				|	Aferrarse (a)/Agarrarse (a)
+Laxatives					|	Laxantes
+Lesion						|	Lesión 
+Ligaments					|	Ligamentos
+Limbs						|	Extremidades
+Lining (any organ)				|	Revestimiento (cualquier órgano)
+Liver						|	Hígado
+Liver failure					|	Insuficiencia hepática/Insuficiencia del hígado
+Log						|	Registro/bitácora
+Lower Jaw					|	Maxilar inferior/mándibula inferior
+Low-grade fever					|	Fiebre baja
+Lymph nodes					|	Ganglios linfáticos
+Malocclusion					|	Mala oclusión/oclusión anormal/oclusión patológica
+Maxillofacial					|	Maxilofacial
+Maxillomandibular fixation			|	Bloqueo intermaxilar
+Measles						|	Sarampión
+Melanin						|	Melanina
+Migraine					|	Migraña
+Mini-plate					|	Lámina pequeña
+Miscarriage					|	Aborto espontáneo
+MMR Vaccine					|	Vacuna triple viral
+Mood swings					|	Cambios del estado de ánimo/cambio de humor
+Morning sickness				|	Náuseas matutinas/malestar matutino
+Mumps						|	Paperas
+Nasogastric tube (NG Tube)			|	Sonda nasogástrica
+Nausea						|	Náusea/Náuseas
+Necrosis					|	Necrosis
+Nerve endings					|	Terminaciones nerviosas
+Neurocysticercosis				|	Neurocisticercosis
+Nipple shield					|	Protector de Pezón
+Nonstress test					|	Prueba sin estrés/Prueba No Estresante Fetal (PNE)
+Numb						|	Adormecer/entumecer
+Nurse practitioner				|	Enfermera practicante/enfermera especializada/enfermera titulada
+Nursing home					|	Geriátrico/Asilo o residencia de ancianos
+Nursing/Breastfeeding				|	Amamantar/dar pecho/lactar
+Office visits					|	Consulta/visita al consultorio
+Onset						|	Aparición/Inicio 
+Operation					|	Operación
+Outbreak					|	Brote/Erupción (cutanea)
+Outpatient					|	Ambulatorio
+Over the counter/Over the counter medicine	|	De venta libre/de venta sin receta médica
+Overcrowding					|	Hacinamiento
+Palate						|	Paladar
+Pancreas					|	Páncreas
+Paramount					|	Fundamental/Primordial
+Parasite					|	Párasito
+PCP (Primary care provider)			|	Doctor de cabecera/Doctor primario
+Perianal abscess				|	Absceso perianal
+Pericarditis					|	Pericarditis
+Pharynx						|	Faringe
+Pins						|	Alfileres
+Placental Abruption				|	Desprendimiento prematuro de la placenta
+Placental Tearing				|	Desgarro de la placenta
+Plaque						|	Sarro
+Platelets					|	Plaquetas
+Pliability					|	Flexibilidad
+Pneumonia					|	Neumonía/Pulmonía
+Post term					|	Post termino
+Postural alignment				|	Alineación de la postura
+Prescription					|	Receta médica
+Preterm						|	Prematuro/Pre-termino
+Progestin-only products				|	Productos que solo contienen progesterona
+Propped upp					|	Apoyado en
+Prosthesis					|	Prótesis
+Prosthetic/Prosthetic device			|	Protésico/Dispositivo u aparato protésico
+Pulmonary aspiration				|	Aspiración pulmonar
+Pulp						|	Pulpa
+Radiologist					|	Radiólogo
+Reading/Readings				|	Lectura/Lecturas
+Red blood cells					|	Glóbulos rojos
+Refer						|	Referir/remitir/derivar
+Referral					|	Referido/remisión/derivación
+Refill						|	Resurtir/Reabastecer
+Registered Nurse (RN)				|	Enfermera certificada
+Resine						|	Resina
+Ring-worm					|	Tiña/Tiña corporal
+Root canal					|	Conducto radicular/raíz dental
+Root canal treatment				|	Tratamiento de conducto/endodoncia
+Rubella						|	Rubeola
+Rule out					|	Descartar
+Runny nose					|	Moqueo/Nariz moquienta/Nariz goteante
+Schizophrenia					|	Esquizofrenia
+Seizure						|	Convulsión
+Set up						|	Establecer/Estar listo (dependiendo del contexto)
+Shinbone					|	Tibia/Canilla
+Shingles					|	Culebrilla/hérpes zóster
+Shortness of breath				|	Dificultad para respirar/falta de aire
+Side effects					|	Efectos secundarios
+Skin graft					|	Injerto de piel
+Sleep apnea					|	Apnea del sueño
+Sleeplessness					|	Insomnia
+Small intestine					|	Intestino delgado
+Smallpox					|	Viruela
+Sore throat					|	Dolor de garganta/garganta irritada
+Specimen					|	Espécimen
+Spina bifida					|	Espina bífida
+Spinal cord					|	Médula espinal
+Spinal tap/Lumbar puncture			|	Punción raquídea/punción lumbar
+Spine						|	Columna vertebral/Espina dorsal
+Spiral fracture					|	Fractura espiroidea
+Splint						|	Férula/Entablillar (algo)/Pletina
+Spotting					|	Manchado
+Squeezing sensation				|	Sensación de opresión
+Stabbing pain					|	Dolor punzante
+Stitches					|	Puntos
+Stool						|	Heces/deposición
+Stool sample					|	Muestra de heces
+Straightforward					|	Sencillo/simple/directo
+Strep throat					|	Faringitis estreptocócica/Infección de garganta por estreptococos
+Stressor					|	Tensionante/creador de tensión/factor de tensión
+Stroke						|	Derrame cerebral/Derrame (coloquial)
+Stuffy nose					|	Congestión nasal/Nariz congestionada
+Superficial partial-thickness burn		|	Quemadura de segundo grado
+Supply/Supplies					|	Suministro/Suministros
+Surgery						|	Cirugía
+Surrounding					|	Adyacente/Circundante/Que se encuentra o está alrededor
+Suture						|	Sutura
+(to) Swab (acción)				|	Hisopado/Frotis
+Swab (objeto)					|	Hisopo médico/Algodóncillo médico
+Sweating					|	Sudoración
+Swelling					|	Hinchazón
+Swollen						|	Hinchado
+Symphyseal fracture				|	Fractura de la Sínfisis
+Syringe						|	Jeringa
+Systolic Pressure				|	Presión sistólica
+Tapeworm					|	Tenia/Tenia solitaria
+Tensor Bandage					|	Venda elástica/Vendaje elástico
+Test strip					|	Tira de prueba/Tira reactiva/Tirilla de prueba (coloquial)
+Thigh						|	Muslo
+Thyroid						|	Tiroides
+Ticker (colloquial)				|	Corazón
+Tissues						|	Tejidos
+To be on leave					|	Estar de permiso/licencia
+To feel blue					|	Sentirse triste/deprimido/melancólico
+To prick					|	Punción/pinchazo/pinchar
+Tonsils						|	Amígdalas
+Tooth decay					|	Deterioro dental
+Toss and turn					|	Dar vueltas/Dar vueltas en la cama
+Trunk/torso					|	Torso
+Type 1 diabetes					|	Diabetes tipo 1
+Type 2 diabetes					|	Diabetes tipo 2
+Ulcer						|	Úlcera
+Ulnar collateral ligament			|	Ligamento colateral cubital
+Ultrasound					|	Ultrasónido
+Underarm/armpit					|	Axila
+Upper jaw					|	Maxilar superior
+Ureter						|	Uréter
+Urethra						|	Uretra
+Urine stream					|	Chorro de orina/Flujo de orina/Flujo urinario
+Vaginal delivery				|	Parto vaginal/Parto natural
+Vaginal discharge				|	Secreción o flujo vaginal
+Vision test					|	Examen de la vista
+Void						|	Evacuar
+Water break					|	Ruptura de fuente/Romper fuente
+Watery						|	Acuoso/aguado
+Wheel chair					|	Silla de ruedas
+Wheezing					|	Silbido de pecho
+White blood cells				|	Glóbulos blancos
+Whooping cough					|	Tos ferina/Tos convulsiva
+Withdrawal Syndrome				|	Síndrome de abstinencia
+Womb/uterus					|	Matrz/útero
+Worn-down-teeth					|	Dientes desgastados
+Wound						|	Herida
+X-Ray						|	Radiografía/Rayos X
+
+
+
+
+
+
+
+
+
+
+(to) run-over					|	Atropellar/arollar
+2-wheel drive					|	Sistema de tracción 4x2/Tracción simple
+4-door car					|	Carro de cuatro puertas
+4-wheel drive					|	Sistema de tracción 4x4/Tracción doble/Todo terreno
+Accommodations					|	Adaptación/adecuación/acuerdos
+Accomplish					|	Lograr/cumplir (algo)
+Accounting					|	Contabilidad
+Accrued						|	Acumulado
+Achieve						|	Alcanzar/lograr
+Actual usage					|	Uso real
+Adjuster					|	Liquidador de daños o reclamos
+Agreement					|	Acuerdo
+Alimony						|	Manutención o pensión conyugal/exconyugal
+Allocate					|	Asignar/repartir
+Appearance					|	Comparecer/comparecencia
+Application					|	Solicitud
+Appraiser					|	Tasador
+APR (Annual Percentage Rate)			|	Tasa de Porcentaje Anual
+ARM (Adjustable Rate Mortgage)			|	Hipóteca de Tasa Variable
+Arrears						|	Moras/pagos pendientes o atrasados
+Arrest Warrant					|	Orden de arresto/orden de captura
+Arson						|	Incendio provocado/intencional
+Assets						|	Bienes/activos
+Assistive technology				|	Tecnología auxiliar/asistencial
+Anticoagulant= blood tiner			|	Anticoagulante
+Attorney					|	Abogado/Fiscal
+Attorney General				|	Fiscal General
+Automated payment system			|	Sistema de pagos automáticos
+Automobile insurance coverage			|	Cobertura del Seguro Automobilistico
+Awards						|	Concesiones
+Bail						|	Fianza
+Balance						|	Saldo
+Bank Officer					|	Funcionario/ejecutivo del banco
+Be at fault					|	Tener la responsabilidad/la culpa
+Beach attire					|	Atuendo de playa/vestimenta de playa
+Behaviour intervention plan			|	Plan de intervención del comportamiento/conductual
+Unemployment Benefits				|	Beneficios del desempleo
+Bill/Invoice					|	Factura
+Binder						|	Contrato Provisorio
+Boarder						|	Huesped/Inquilino
+Bodily injury coverage				|	Cobertura por lesiones corporales
+Body Shop					|	Taller/Taller automovilistico
+Borrower					|	Deudor/prestatario (menos común)
+Budget						|	Presupuesto
+Bump						|	Choque/Golpe
+Bumper						|	Parachoques
+Burglar Alarm					|	Alarma contra robos
+Burglar Bars					|	Rejas antirrobos
+Burners						|	Hornillas
+Car Ignition					|	Encendido/arranque del carro
+Charges						|	Cargos
+Check-on-hold/Check hold			|	Cheque en retención/Cheque retenido/Retención del cheque
+Check Stub					|	Talón de cheque/Colilla de pago
+Checking account				|	Cuenta corriente
+Child Care/Daycare				|	Cuidado infantil/Guardería
+Child support					|	Pensión alimenticia para menores/Manutención Infantil
+Citation/subpoena				|	Citación
+Claim						|	Reclamo
+Claim number					|	Número de reclamo
+Clerk						|	Secretario/Funcionario/Dependiente
+Clockwise					|	En el sentido de las manecillas del reloj/hacia la derecha
+Co-applicant					|	Co-solicitante/solicitante conjunto/segundo solicitante
+Coal stove					|	Estufa a carbón
+Collateral Property				|	Propiedad colateral
+Collection agency				|	Agencia de cobros
+Collision coverage				|	Cobertura contra choques/colisiones
+Compliance					|	Conformidad/Cumplimiento
+Comprehensive Coverage				|	Cobertura total/integral
+Contempt Applications				|	Solicitud de desacato
+Convicted					|	Condenado
+Counterclockwise				|	Sentido anti horario
+Court order					|	Orden Judicial
+Courthouse					|	Tribunal/Juzgado
+Credit an account				|	Debitar a una cuenta/Acreditar una cuenta
+Credit approval					|	Aprobación crediticia/Aprobación de credito
+Credit card					|	Tarjeta de crédito
+Credit history					|	Historial crediticio/Historial de crédito
+Credit report					|	Reporte crediticio/Reporte de crédito
+Credit union					|	Cooperativa de crédito
+Creditor rights					|	Derechos del acreedor/prestamista
+Crosswalk					|	Cruce peatonal
+Curb						|	Refrenar/contener/reducir
+Current						|	Actual
+Custody						|	Custodia/detención
+Custom car					|	Carro personalizado/a la medida
+Customary					|	Habitual/consuetudinario 
+Deadbolt locks					|	Cerraduras con cerrojo de seguridad
+Dealership					|	Concesionario
+Debit card					|	Tarjeta de débito
+Debris						|	Escombros/desechos/restos
+Deductible					|	Deducible
+Defendant					|	Acusado
+Defer						|	Diferir/aplazar/postergar
+Delinquent					|	Moroso/con atraso
+Dent						|	Abolladura
+Detached structures				|	Estructuras independientes o separadas
+Dial						|	Marcar/marcación
+Disability					|	Discapacidad
+Disclaimer					|	Aviso/Aviso legal
+Disclosure					|	Declaración
+Dismiss						|	Descartar/hacer caso omiso
+Distribution Check				|	Orden de pago de distribución/Cheque con el pago de la distribución
+DMV (Department of Motor Vehicles)		|	Departamento de Vehículos Motorizados
+Draft						|	Retirar/sacar
+Driveway					|	Calzada/entrada vehícular
+Driving Record					|	Historial de manejo
+Due date					|	Fecha límite de pago/Fecha límite/Fecha de pago
+Due process					|	Debido proceso
+Electric generation supplier			|	Proveedor o Suministrador de generación eléctrica
+Electric heating				|	Calefacción eléctrica
+Emergency roadside service			|	Servicio vial de emergencia/servicio de emergencias en carreteras
+Enforce						|	Hacer cumplir/Ejercer (algo)
+Enforcement actions				|	Medidas de ejecución/acciones de aplicación o cumplimiento
+Enroll						|	Inscribirse/Inscribir
+Equity						|	Patrimonio/de capital/participativo
+Escrow 	(En) 					|	Garantía/fideicomiso/retención
+Estimate					|	Estimación/apróximado/cálculo
+Expenses					|	Gastos
+Expiration date					|	Fecha de vencimiento/expiración
+Extension					|	Prórroga
+Extinguisher					|	Extintor
+Faint						|	Débil/ligero/tenue/*to faint es desmayarse
+Fee						|	Tarifa/Recargo/Tasa/Honorario
+Fender Bender					|	Golpe del parachoques/Golpe o choque leve (coloquial)
+File income taxes				|	Radicar o presentar la declaración de impuestos a la renta
+Financial hardship				|	Dificultades financieras/problemas financieros
+Fire-resistant construction			|	Construcción resistente al fuego
+Fireplace insert				|	Inserto para chimeneas
+Fixed rate					|	Tasa fija
+Flat tire					|	Llanta desinflada/pinchada/reventada
+Foreclose/Foreclosure				|	Embargar una propiedad inmueble/embargo de inmuebles
+Forebearance					|	Acuerdo (o plan) de indulgencia por mora/acuerdo por morosidad
+Form						|	Formulario (o formato, dependiendo del contexto)
+Former						|	Previo/primero/anterior
+Frame construction				|	Estructura de armazón
+Fraud						|	Fraude
+Freestanding Fireplace				|	Chimenea de posicionamiento libre/independiente
+Funds						|	Fondos
+Furs						|	Pieles
+Gap Insurance					|	Seguro para períodos de brecha
+Garaged						|	Estacionado/parqueado en un garaje
+Gas meter					|	Contador de gas
+General Education Curriculum			|	Currículo de educación general o formación general
+Go out on a limb				|	Ponerse en situaciones riesgosas o complicadas/correr el riesgo
+Goldware					|	Artículos de oro
+Grace period					|	Periodo de gracia
+Gross income/income before taxes		|	Ingreso bruto
+Halter tops					|	Blusa de amarre al cuello
+Hard/soft credit check				|	Evaluación de crédito completa/simple
+Hard copy					|	Copia fisíca
+Headlights					|	Faros delanteros/luces delanteras
+Hearing						|	Audiencia
+Hissing sound					|	Silbido/pitido/seseo
+Home address					|	Dirección de hogar/residencia
+Home equity loan				|	Préstamo por el valor/capital/patrimonio de la propiedad
+Homeowner's Insurance				|	Seguro de la propiedad/hogar/casa
+Hotline						|	Linea directa/Linea de acceso directo
+Household					|	Vivienda/hogar
+Identity Theft					|	Robo de identidad
+IEP (Individualized Education Program)		|	Programa de educación individualizada
+Impede						|	Impedir
+In-House					|	Internamente
+Inquiry						|	Consulta
+Insurance					|	Seguro/aseguradora
+Insured						|	Asegurado
+Interests					|	Intereses
+Interstate enforcement				|	Aplicación de la ley interestatal
+Investment					|	Inversión
+IRA (Individual Retirement Account)		|	Cuenta de jubilación individual/personal
+IRS (Internal Revenue Service)			|	Ministerio de hacienda/rentas || Servicio federal de inpuesto interno
+Issuing officer					|	Funcionario/oficial/agente emisor
+Jack						|	Gato/Gato hidráulico (contexto automovilistico)
+Junkyard					|	Deshuesadero/Chatarrería
+Jury Duty					|	Servicio como jurado/obligación de jurado
+Jury summons					|	Citación para integrar el jurado
+Kick in						|	Surtir efecto
+Knock back					|	Disminuir/acortar/reducir
+Lacerations					|	Laceraciones
+Ladder						|	Escalera
+Lane						|	Carril
+Late fee					|	Recargo/cobro por pago atrasado o atraso en pagos/Cuota por atraso
+Law library					|	Biblioteca legal
+Law Officer					|	Funcionario de la policia/Oficial de la policia
+Lawsuit						|	Demanda
+Lay out						|	Disponer/exponer
+Least restrictive environment			|	Ambiente menos restrictivo
+Lender						|	Prestamista/entidad crediticia/acreedor
+Liability Coverage				|	Cobertura de responsabilidad civil
+Liable/Liability				|	Responsable/responsabilidad
+Licence plates					|	Placa del vehículo/Matrícula del vehículo
+Lienholder					|	Acreedor prendario/Institución financiera/Prestamista
+Loan						|	Préstamo
+Log Construction				|	Construcción en madera
+Lump sum					|	Suma global/suma total
+Mailing address					|	Dirección de correspondencia
+Marshal						|	Mariscal
+Masonry Construction				|	Construcción de Mampostería
+Masonry Veneer Construction			|	Construcción en revestimiento de mampostería
+Merchant					|	Comerciante
+Meter reader					|	Lector del contador
+Miles						|	Millas
+Misdemeanor					|	Delito menor
+Modification					|	Modificación
+Money order					|	Giro postal
+Mortgage					|	Hipóteca
+Mortgage Loan					|	Préstamo Hipotecario
+Motor vehicle record				|	Registro de vehículo motorizado
+Multi-dwelling					|	Residencia multifamiliar
+Mutual funds					|	Fondos mutuos
+Nail clipper					|	Cortauñas
+Net income/Income after taxes			|	Ingreso neto
+Notice of intent to refuse or cancel		|	Aviso/notificación de rechazo o cancelación o de cancelación
+On-site Representative				|	Representante presencial
+Ordinance					|	Ordenanza
+Out of pocket expenses/payments			|	Pagos/gastos de su propio bolsillo/de su propio dinero
+Outstanding					|	Pendiente (saldo)/Sobresaliente, destacado (educación)
+Over the phone					|	Por telefono/por vía telefónica
+Overdraft					|	Sobregiro
+Owe						|	Deber/adeudar
+P-Cap Program					|	Programa p-cap/Programa de asistencia para el cliente de Pensilvania
+PO Box						|	Apartado Postal
+Pain and Suffering				|	Daños y perjuicios
+Parent report					|	Informe realizado por los padres
+Parking lot/Parking space			|	Estacionamiento/parqueadero
+Partner company					|	Empresa asociada/Compañía asociada
+Party/other party/third party			|	La parte/la otra parte/el tercero
+Passcode					|	Código de acceso/clave de acceso
+Paycheck					|	Cheque de Pago/Nómina/Sueldo
+Pay-Off						|	Pagar/pagar por completo/amortizar
+Pay stub					|	Talón de pago
+Payable						|	Pagable
+Payday						|	Día de pago/fecha de pago
+Payment agreement				|	Acuerdo de pago
+Payment arrangement				|	Arreglo de pago
+Payment plan					|	Plan de pagos
+Payment processing center			|	Centro de procesamiento de pagos
+Pedestrian					|	Peatón
+Pending balance					|	Saldo pendiente
+Plaintiff					|	Demandante
+Plan administrator				|	Administrador del plan
+Pocket knife					|	Navaja de bolsillo
+Pocketbook					|	Billetera
+Pointer						|	Indicador/Puntero
+Police report					|	Informe policial/Reporte policial
+Policy						|	Póliza/Política (de una empresa o institución)
+Postdate					|	Posfechar/Posdatar/Con fecha posterior a…
+Post/Posted					|	Depositar/Reflejado
+Premises of a residence				|	Las dependencias de la residencia/las instalaciones de la residencia
+Premium						|	Prima
+Present level of performance			|	Nivel de rendimiento o desempeño actual
+Principal account				|	Cuenta principal
+Process server					|	Receptor Judicial
+Profits						|	Ganancias
+Progress reporting				|	Informe de progreso/avance
+Proof of service				|	Constancia de entrega/notificación
+Property damage coverage			|	Cobertura para daños a la propiedad
+Protective Devices				|	Dispositivos de protección
+Quote						|	Cotizar/Cotización
+Rate						|	Tasa/tarifa/precio/índice
+Rear						|	Parte posterior/Parte de atrás
+Rear-end					|	Retaguardia/Parte trasera
+Rear-view Mirrors				|	Retrovisores
+Red flag					|	Señal de alerta/Señal de peligro
+Refinancing					|	Refinanciamiento
+Refund						|	Devolución/indemnización/reembolso
+Register					|	Registro/registrar/matricular
+Reimbursment					|	Reembolso
+Reinforce					|	Reforzar
+Related services				|	Servicios relacionados
+Remainder					|	Restante
+Remaining balance				|	Saldo restante
+Renew						|	Renovar
+Renewal						|	Renovación
+Rental car					|	Carro de renta
+Repossess/repossession				|	Embargo ( de un carro)
+Request						|	Solicitud/ petición
+Retirement					|	Jubilación
+Retirement analyst				|	Analista de jubilación
+Revoke						|	Revocar
+Rollover					|	Acumular
+Rule of venue					|	Regla a jugar
+Savings account					|	Cuenta de ahorros
+Security code					|	Código de seguridad
+Seize/seizure					|	Incautar/embargar/embargo
+Self-employed					|	Trabajador independiente/autónomo
+Serve						|	Notificar
+Service address					|	Dirección del servicio/Dirección en donde se instalarán los servicios
+Service of process				|	Boleta de notificación
+Set up						|	Establecer
+Settlement					|	Liquidación/acuerdo/solución
+Sheriff						|	Alguacil
+Shut off					|	Desconexión/corte
+Sign up						|	Registrarse/Suscribirse
+Silverware					|	Platería
+Single digit number				|	Número de solo un dígito
+Small claims court				|	Proceso monitorio/juzgado de demandas de menor cuantía
+Social security number				|	Número de seguridad social
+Social services					|	Servicios sociales
+Spare tire					|	Llanta de repuesto
+Special education				|	Educación especializada
+Speeding					|	Exceso de velocidad
+Sprinler system					|	Sistema de aspersores/rociadores
+Standards based IEP				|	Programa de educación individual en base a estándares
+Statement					|	Estado de cuenta/declaración
+Statute						|	Estatuto
+Steering Wheel					|	Volante/timón
+Storm out					|	Salida intempestiva/abrupta
+Street pole					|	Poste de la calle/vía
+Street sign					|	Nomenclatura de la calle/vía/carretera
+Sunroof						|	Techo corredizo/techo solar
+Superior court					|	Tribunal superior
+Supplementary aids and services			|	Recursos y servicios complementarios/suplementarios
+Supplementary income				|	Ingreso complementario
+Supplier					|	Suministrador/distruibidor
+Swerve						|	Desviarse
+Tab						|	Pestaña (página web o aplicación)
+Tank top					|	Camiseta sin mangas
+Tap						|	Grifo/llave 
+Tax return					|	Declaración de impuestos/declaración fiscal
+Term						|	Período
+Tire						|	Llanta
+Title						|	Título
+To credit					|	Acreditar
+To debit					|	Debitar
+Tow truck					|	Grúa/grúa de remolque
+Tow yard					|	Patio para grúas/Lote de autos remolcados/atoyadero
+Traffic light					|	Semáforo
+Traffic violation				|	Infracción de tránsito
+Transition plan	P				|	lan de transición
+Travel expense coverage				|	Cobertura para gastos de viaje
+Trunk						|	Maletero
+Trust income					|	Ingreso por fideicomiso
+Underwriter					|	Evaluador de riesgos/subscriptor
+Underwriting					|	Evaluación de riesgos/subscripción
+Uninsured motorist coverage			|	Cobertura para conductor no asegurado
+Union						|	Sindicato
+Usage						|	Uso
+Video footage					|	Grabación de video
+VIN Number					|	Número de identificación vehicular
+Wage						|	Salario/sueldo/nómina
+Waive						|	Exonerar
+Warrant						|	Orden
+Wilfully					|	Intencionalmente/a consciencia/voluntariamente
+Wire Transfer					|	Transferencia electrónica/giro bancario
+Withdrawal					|	Retiro/retirar
+Withhold					|	Retener
+Witnesses					|	Testigos
+Year, Make and Model				|	Año, marca y modelo (de un vehículo)
+Zip code					|	Código postal
+
+
+
+
+
+
+
+
+ACRONYM	SPANISH	ENGLISH
+ADD	Trastorno por Déficit de Atención	Attention Deficit Disorder
+ADHD	Trastorno por Déficit de Atención e Hiperactividad	Attention Deficit Hyperactivity Disorder
+AIDS	Síndrome de Inmunodeficiencia Adquirida	Acquired Immune Deficiency Syndrome
+BM	Movimiento Intestinal	Bowel Movement
+BMI	Índice de Masa Corporal	Body Mass Index
+CPR	Reanimación Cardio Pulmonar (RCP)	Cardio Pulmonary Resuscitation
+CBC	Hemograma Completo	Complete Blood Count
+COPD	Enfermedad Pulmonar Obstructiva Crónica	Chronic Obstructive Pulmonary Disease
+CT SCAN	Tomografía Computarizada	Computerized Tomography Scan
+CAT SCAN	Tomografía Axial Computarizada	Computerized Axial Tomography Scan
+CVA	Accidente cerebrovascular (ACV)	Cerebrovascular Accident
+DNR	No Reanimar	Do Not Resuscitate 
+DNA	Ácido Desoxirribonucleico	Deoxyribonucleic Acid
+DPT	Difteria, Tos Ferina y Tétano	Diphteria, Pertussis and Tetanus
+D&C	Dilatación y Curetaje	Dilation and Curettage
+EEG	Electroencefalograma	Electroencephalogram
+EKG	Electrocardiograma	Electrocardiogram
+EMG	Electromiograma	Electromyogram
+EMS	Servicio Médico de Emergencia	Emergency Medical Service
+ENT	Oído, Nariz y Garganta	Ear, Nose and Throat
+ER	Sala de Emergencia	Emergency Room
+G-TUBE	Sonda Gástrica	Gastric Tube
+GERD	Enfermedad por Reflujo Gastroesofágico (ERGE)	Gastroesophageal Reflux Disease
+GI	Gastrointestinal	Gastrointestinal
+HIV	Virus de Inmunodeficiencia Humana	Human Inmunodeficiency Virus
+HPV	Virus del Papiloma Humano	Human Papilloma Virus
+ICU	Unidad de Cuidados Intensivos	Intensive Care Unit
+IUD	Dispositivo Intrauterino	Intrauterine Device
+IV	Intravenoso	Intravenous
+L&D	Trabajo de Parto y Parto	Labor and Delivery
+MG	Miligramo	Milligram
+ML	Mililitro	Milliliter
+MRI	Imagen por Resonancia Magnética	Magnetic Resonance Imaging
+MRSA	Estafilococos aureus resistentes a la meticilina	Methicillin-resistant Staphylococcus aureus
+MS	Esclerosis Múltiple	Multiple Sclerosis
+NICU	Unidad de Cuidados Intensivos Neonatales	Neonatal Intensive Care Unit
+NPO	Nada por la Boca (Nulla Per Os)	Nothing By Mouth (Nulla Per Os)
+OCD	Trastorno Obsesivo Compulsivo	Obsessive Compulsive Disorder
+OR	Sala de Operaciones	Operating Room
+OT	Terapia Ocupacional	Occupational Theraphy
+PACU	Unidad de Cuidados Postanestesia	Postanesthesia Care Unit
+PAP TEST	Prueba de Papanicolaou	Pap Smear Test
+PCP	Médico de Atención Primaria, medico de cabecera	Primary Care Physician
+PET Scan	Tomografía por emisión de positrones	Positron emission tomography
+PMS	Síndrome Premenstrual	Premenstrual Syndrome
+PT	Terapia Física	Physical Therapy 
+PTSD	Trastorno de Estrés Postraumático	Post Traumatic Stress Disorder
+POST-OP	Postoperatorio	Post-Operation
+PRE-OP	Preoperatorio	Pre-Operation
+SIDS	Síndrome de Muerte Súbita del Lactante (Muerte en la Cuna)	Sudden Infant Death Syndrome (Crib death)
+STD	Enfermedad de Transmisión Sexual	Sexually Transmitted Disease
+STREP	Estreptococo	Streptococus
+T&A	Amigdalectomía y Adenoidectomía	Tonsillectomy and Adenoidectomy
+TB	Tuberculosis	Tuberculosis
+UTI	Infección del Tracto Urinario	Urinary Tract Infection
+VRSA	Estafilococos aureus resistentes a la vancomicina	Vancomycin-resistant Staphylococcus aureus
+
